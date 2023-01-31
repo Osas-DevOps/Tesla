@@ -5,3 +5,4 @@ deployment4 activated henceforth
 deployment4 just commenced
 deployment5 just commenced
 deployment7 onboarded
+deployment8 on the run
